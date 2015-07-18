@@ -1,7 +1,8 @@
 # IRC DDOS BOT
 
 
-PT: Este bot é simples, com sistema de usuários, o bot está totalmente comentado em Português então está "fácil"
+PT: Este bot é simples, com sistema de usuários, o bot está totalmente comentado em Português então está "fácil".
+
 EN: This bot is simple, with a user system, the bot is completely commented in portuguese so it's easy (for the ones that speak that language)
 
 Precisa de: Net::RawIP
