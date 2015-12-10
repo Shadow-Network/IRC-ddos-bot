@@ -10,13 +10,8 @@ use Socket;                                     #
 use IO::Socket;                                 #
 use IO::Socket::INET;                           #
 use IO::Select;                                 #
-use MIME::Base64;                               #
-use Net::FTP;                                   #
-use Net::SMTP;                                  #
 use Net::RawIP;                                 #
-use MIME::Base64;                               #    
-use URI::URL;								    #
-use Digest::MD5 qw(md5 md5_hex md5_base64);     #
+use URI::URL;					#
 #################################################
 #              Shadow-NetWorK                   #
 #       Versão 1 BY H3LLS1NG & JesséSilva       #
